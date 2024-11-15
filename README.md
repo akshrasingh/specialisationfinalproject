@@ -4,22 +4,36 @@ This project is a Flask-based web application that automates the process of anal
 
 ## Features
 
-- **Email Classification**: Categorizes email content into predefined categories like "Job-Related," "Personal," or "Document Checking and Editing."
-- **Automated Reply Generation**: Generates contextually appropriate replies based on the email classification.
-- **Sentiment Analysis**: Determines the sentiment (positive, neutral, or negative) of the email content.
-- **Grammar Checking**: Highlights grammatical issues and provides corrected text.
+### Email Classification
+Categorizes email content into predefined categories like:
+- "Job-Related"
+- "Personal"
+- "Document Checking and Editing"
+
+### Automated Reply Generation
+Generates contextually appropriate replies based on the email classification.
+
+### Sentiment Analysis
+Determines the sentiment (positive, neutral, or negative) of the email content.
+
+### Grammar Checking
+Highlights grammatical issues and provides corrected text.
 
 ## Installation
 
-Follow these steps to set up and run the project:
-
 ### Prerequisites
-
 - Python 3.9 or above
 - pip (Python package manager)
+  
+### Install Required Packages
+pip install -r requirements.txt
+Run the following command to install the necessary Python libraries:
+
+bash
+Copy code
 
 ### Clone the Repository
-
+Run the following commands to clone the repository and navigate into the project folder:
 ```bash
-git clone <repository_url>
-cd <repository_folder>
+
+
