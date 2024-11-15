@@ -3,7 +3,6 @@
 This project is a Flask-based web application that automates the process of analyzing email content for classification, sentiment analysis, grammar checking, and automated reply generation. It utilizes natural language processing models and libraries like Hugging Face Transformers, TensorFlow, and LanguageTool.
 
 ## Features
-
 ### Email Classification
 Categorizes email content into predefined categories like:
 - "Job-Related"
@@ -44,8 +43,6 @@ project/
 └── style.css 
 # Dependencies for the project
 pip freeze > requirements.txt
-
-
 
 Output:
 
