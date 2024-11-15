@@ -29,7 +29,7 @@ Clone the Repository
 git clone https://github.com/your-username/email-analysis-app.git
 cd email-analysis-app
 
-Running the Application
+##Running the Application
 Start the Flask app:
 python app.py
 
