@@ -36,8 +36,6 @@ Open a web browser and go to:
 http://127.0.0.1:5000
 
 ### Directory structure
-plaintext
-Copy code
 project/
 ├── app.py                # Main Flask application
 ├── templates/
@@ -58,6 +56,7 @@ Output:
 ![image](https://github.com/user-attachments/assets/5e27cf0c-4fe8-4b22-84bc-4ea2fcd65ad9)
 
 
+# Training the model -backend
 
 
 
