@@ -29,11 +29,39 @@ Highlights grammatical issues and provides corrected text.
 pip install -r requirements.txt
 Run the following command to install the necessary Python libraries:
 
-bash
-Copy code
+### Run the  python file 
+Navigate to the project directory and run the Flask app:
+python app.py
+Open a web browser and go to:
+http://127.0.0.1:5000
 
-### Clone the Repository
-Run the following commands to clone the repository and navigate into the project folder:
-```bash
+### Directory structure
+plaintext
+Copy code
+project/
+├── app.py                # Main Flask application
+├── templates/
+│   └── index.html        # HTML template for the web interface
+├── static/               # Folder for static assets (CSS, JS, images)
+└── style.css 
+# Dependencies for the project
+pip freeze > requirements.txt
+
+
+
+Output:
+
+![image](https://github.com/user-attachments/assets/012855b2-35bf-4814-9078-ebc5f57b7b47)
+
+![image](https://github.com/user-attachments/assets/a1f0f729-8117-473e-9f22-931edb2da554)
+
+![image](https://github.com/user-attachments/assets/5e27cf0c-4fe8-4b22-84bc-4ea2fcd65ad9)
+
+
+
+
+
+
+
 
 
