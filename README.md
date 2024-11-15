@@ -1,3 +1,5 @@
+# For Frontend
+
 # Email Classification and Automated Response Web App
 
 This Flask-based web application is designed to analyze emails, classify them into categories, generate automated responses, perform sentiment analysis, and check for grammatical errors. The app utilizes NLP models and tools to provide an intelligent interface for email handling.
@@ -28,13 +30,12 @@ This Flask-based web application is designed to analyze emails, classify them in
 Clone the Repository
 git clone https://github.com/your-username/email-analysis-app.git
 cd email-analysis-app
+## Running the application
 
-##Running the Application
 Start the Flask app:
 python app.py
 
-
-##output
+## Output
 ![image](https://github.com/user-attachments/assets/859e1ab2-7b41-4654-8837-0510be415f02)
 ![image](https://github.com/user-attachments/assets/dde36640-c2a3-49b4-bb1e-a88664087e73)
 ![image](https://github.com/user-attachments/assets/58f7f02e-2b0e-455a-b8f6-cd63e9897504)
